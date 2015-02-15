@@ -1,0 +1,465 @@
+{
+    "af": {
+        "alpha2": "af",
+        "alpha3": "afr",
+    },
+    "am": {
+        "alpha2": "am",
+        "alpha3": "amh",
+    },
+    "ar": {
+        "alpha2": "ar",
+        "alpha3": "ara",
+    },
+    "ay": {
+        "alpha2": "ay",
+        "alpha3": "aym"
+    },
+    "az": {
+        "alpha2": "az",
+        "alpha3": "aze",
+    },
+    "be": {
+        "alpha2": "be",
+        "alpha3": "bel",
+    },
+    "bg": {
+        "alpha2": "bg",
+        "alpha3": "bul",
+    },
+    "bi": {
+        "alpha2": "bi",
+        "alpha3": "bis",
+    },
+    "bn": {
+        "alpha2": "bn",
+        "alpha3": "ben",
+    },
+    "bs": {
+        "alpha2": "bs",
+        "alpha3": "bos",
+    },
+    "cy": {
+        "alpha3": "cym"
+    },
+    "ca": {
+        "alpha2": "ca",
+        "alpha3": "cat",
+    },
+    "ch": {
+        "alpha2": "ch",
+        "alpha3": "cha"
+    },
+    "cs": {
+        "alpha2": "cs",
+        "alpha3": "ces",
+    },
+    "da": {
+        "alpha2": "da",
+        "alpha3": "dan",
+    },
+    "de": {
+        "alpha2": "de",
+        "alpha3": "deu",
+    },
+    "dv": {
+        "alpha2": "dv",
+        "alpha3": "div",
+    },
+    "dz": {
+        "alpha2": "dz",
+        "alpha3": "dzo",
+    },
+    "el": {
+        "alpha2": "el",
+        "alpha3": "ell",
+    },
+    "en": {
+        "alpha2": "en",
+        "alpha3": "eng",
+    },
+    "es": {
+        "alpha2": "es",
+        "alpha3": "spa",
+    },
+    "et": {
+        "alpha2": "et",
+        "alpha3": "est",
+    },
+    "eu": {
+        "alpha2": "eu",
+        "alpha3": "eus"
+    },
+    "fa": {
+        "alpha2": "fa",
+        "alpha3": "fas",
+    },
+    "fi": {
+        "alpha2": "fi",
+        "alpha3": "fin",
+    },
+    "fj": {
+        "alpha2": "fj",
+        "alpha3": "fij"
+    },
+    "fo": {
+        "alpha2": "fo",
+        "alpha3": "fao",
+    },
+    "fr": {
+        "alpha2": "fr",
+        "alpha3": "fra"
+    },
+    "ga": {
+        "alpha2": "ga",
+        "alpha3": "gle",
+    },
+    "gl": {
+        "alpha2": "gl",
+        "alpha3": "glg"
+    },
+    "gn": {
+        "alpha2": "gn",
+        "alpha3": "grn"
+    },
+    "gv": {
+        "alpha2": "gv",
+        "alpha3": "glv"
+    },
+    "he": {
+        "alpha2": "he",
+        "alpha3": "heb",
+    },
+    "hi": {
+        "alpha2": "hi",
+        "alpha3": "hin",
+    },
+    "ho": {
+        "alpha2": "ho",
+        "alpha3": "hmo",
+    },
+    "hr": {
+        "alpha2": "hr",
+        "alpha3": "hrv"
+    },
+    "ht": {
+        "alpha2": "ht",
+        "alpha3": "hat"
+    },
+    "hu": {
+        "alpha2": "hu",
+        "alpha3": "hun",
+    },
+    "hy": {
+        "alpha2": "hy",
+        "alpha3": "hye",
+    },
+    "hz": {
+        "alpha2": "hz",
+        "alpha3": "her"
+    },
+    "id": {
+        "alpha2": "id",
+        "alpha3": "ind",
+    },
+    "is": {
+        "alpha2": "is",
+        "alpha3": "isl",
+    },
+    "it": {
+        "alpha2": "it",
+        "alpha3": "ita",
+    },
+    "ja": {
+        "alpha2": "ja",
+        "alpha3": "jpn",
+    },
+    "ka": {
+        "alpha2": "ka",
+        "alpha3": "kat",
+    },
+    "kg": {
+        "alpha2": "kg",
+        "alpha3": "kon"
+    },
+    "kk": {
+        "alpha2": "kk",
+        "alpha3": "kaz",
+    },
+    "kl": {
+        "alpha2": "kl",
+        "alpha3": "kal",
+    },
+    "km": {
+        "alpha2": "km",
+        "alpha3": "khm",
+    },
+    "ko": {
+        "alpha2": "ko",
+        "alpha3": "kor",
+    },
+    "ku": {
+        "alpha2": "ku",
+        "alpha3": "kur"
+    },
+    "ky": {
+        "alpha2": "ky",
+        "alpha3": "kir",
+    },
+    "la": {
+        "alpha2": "la",
+        "alpha3": "lat"
+    },
+    "lb": {
+        "alpha2": "lb",
+        "alpha3": "ltz"
+    },
+    "ln": {
+        "alpha2": "ln",
+        "alpha3": "lin"
+    },
+    "lo": {
+        "alpha2": "lo",
+        "alpha3": "lao",
+    },
+    "lt": {
+        "alpha2": "lt",
+        "alpha3": "lit",
+    },
+    "lv": {
+        "alpha2": "lv",
+        "alpha3": "lav",
+    },
+    "mg": {
+        "alpha2": "mg",
+        "alpha3": "mlg"
+    },
+    "mh": {
+        "alpha2": "mh",
+        "alpha3": "mah",
+    },
+    "mi": {
+        "alpha2": "mi",
+        "alpha3": "mri"
+    },
+    "mk": {
+        "alpha2": "mk",
+        "alpha3": "mkd",
+    },
+    "mn": {
+        "alpha2": "mn",
+        "alpha3": "mon",
+    },
+    "ms": {
+        "alpha2": "ms",
+        "alpha3": "msa",
+    },
+    "mt": {
+        "alpha2": "mt",
+        "alpha3": "mlt",
+    },
+    "my": {
+        "alpha2": "my",
+        "alpha3": "mya",
+    },
+    "na": {
+        "alpha2": "na",
+        "alpha3": "nau",
+    },
+    "nb": {
+        "alpha2": "nb",
+        "alpha3": "nob"
+    },
+    "nd": {
+        "alpha2": "nd",
+        "alpha3": "nde"
+    },
+    "ne": {
+        "alpha2": "ne",
+        "alpha3": "nep",
+    },
+    "ng": {
+        "alpha2": "ng",
+        "alpha3": "ndo"
+    },
+    "nl": {
+        "alpha2": "nl",
+        "alpha3": "nld",
+    },
+    "nn": {
+        "alpha2": "nn",
+        "alpha3": "nno"
+    },
+    "no": {
+        "alpha2": "no",
+        "alpha3": "nor",
+    },
+    "nr": {
+        "alpha2": "nr",
+        "alpha3": "nbl"
+    },
+    "ny": {
+        "alpha2": "ny",
+        "alpha3": "nya",
+    },
+    "oc": {
+        "alpha2": "oc",
+        "alpha3": "oci"
+    },
+    "pl": {
+        "alpha2": "pl",
+        "alpha3": "pol",
+    },
+    "ps": {
+        "alpha2": "ps",
+        "alpha3": "pus",
+    },
+    "pt": {
+        "alpha2": "pt",
+        "alpha3": "por",
+    },
+    "qu": {
+        "alpha2": "qu",
+        "alpha3": "que"
+    },
+    "rm": {
+        "alpha2": "rm",
+        "alpha3": "roh"
+    },
+    "rn": {
+        "alpha2": "rn",
+        "alpha3": "run",
+    },
+    "ro": {
+        "alpha2": "ro",
+        "alpha3": "ron",
+    },
+    "ru": {
+        "alpha2": "ru",
+        "alpha3": "rus"
+    },
+    "rw": {
+        "alpha2": "rw",
+        "alpha3": "kin",
+    },
+    "sg": {
+        "alpha2": "sg",
+        "alpha3": "sag",
+    },
+    "si": {
+        "alpha2": "si",
+        "alpha3": "sin",
+    },
+    "sk": {
+        "alpha2": "sk",
+        "alpha3": "slk"
+    },
+    "sl": {
+        "alpha2": "sl",
+        "alpha3": "slv",
+    },
+    "sm": {
+        "alpha2": "sm",
+        "alpha3": "smo"
+    },
+    "sn": {
+        "alpha2": "sn",
+        "alpha3": "sna"
+    },
+    "so": {
+        "alpha2": "so",
+        "alpha3": "som",
+    },
+    "sq": {
+        "alpha2": "sq",
+        "alpha3": "sqi",
+    },
+    "sr": {
+        "alpha2": "sr",
+        "alpha3": "srp"
+    },
+    "ss": {
+        "alpha2": "ss",
+        "alpha3": "ssw"
+    },
+    "st": {
+        "alpha2": "st",
+        "alpha3": "sot",
+    },
+    "sv": {
+        "alpha2": "sv",
+        "alpha3": "swe",
+    },
+    "sw": {
+        "alpha2": "sw",
+        "alpha3": "swa",
+    },
+    "ta": {
+        "alpha2": "ta",
+        "alpha3": "tam"
+    },
+    "tg": {
+        "alpha2": "tg",
+        "alpha3": "tgk",
+    },
+    "th": {
+        "alpha2": "th",
+        "alpha3": "tha",
+    },
+    "ti": {
+        "alpha2": "ti",
+        "alpha3": "tir",
+    },
+    "tk": {
+        "alpha2": "tk",
+        "alpha3": "tuk"
+    },
+    "tn": {
+        "alpha2": "tn",
+        "alpha3": "tsn"
+    },
+    "to": {
+        "alpha2": "to",
+        "alpha3": "ton",
+    },
+    "tr": {
+        "alpha2": "tr",
+        "alpha3": "tur"
+    },
+    "ts": {
+        "alpha2": "ts",
+        "alpha3": "tso"
+    },
+    "uk": {
+        "alpha2": "uk",
+        "alpha3": "ukr",
+    },
+    "ur": {
+        "alpha2": "ur",
+        "alpha3": "urd"
+    },
+    "uz": {
+        "alpha2": "uz",
+        "alpha3": "uzb",
+    },
+    "ve": {
+        "alpha2": "ve",
+        "alpha3": "ven"
+    },
+    "vi": {
+        "alpha2": "vi",
+        "alpha3": "vie",
+    },
+    "xh": {
+        "alpha2": "xh",
+        "alpha3": "xho"
+    },
+    "zh": {
+        "alpha2": "zh",
+        "alpha3": "zho",
+    },
+    "zu": {
+        "alpha2": "zu",
+        "alpha3": "zul"
+    }
+}
