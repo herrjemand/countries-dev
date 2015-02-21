@@ -19,3 +19,5 @@ Devtools and data for -> World [countries@mledoze](https://github.com/mledoze/co
  - `Langauges.a2.a3.json` - Alpha-2 to Alpha-3 converter
 
  - `Languages.json` - Massive database of languages and their Alpha codes.
+ 
+ - `Calling.codes.json` - Worldwide calling code database
