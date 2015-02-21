@@ -1,4 +1,4 @@
-# Author: Ackermann Yuriy < github@herrniemand > < ackermann.yuriy@gmail.com >
+# Author: Ackermann Yuriy < herrniemand@github > < ackermann.yuriy@gmail.com >
 
 # This is ugly code
 # Author had not time to make it pretty, pretty princes
@@ -24,7 +24,7 @@ for i in x:
 		"ccn3",
 		"cca3",
 		"currency",
-		"callingCode",
+		"callingCodes",
 		"capital",
 		"altSpellings",
 		"region",

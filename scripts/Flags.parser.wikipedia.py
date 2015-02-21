@@ -1,4 +1,4 @@
-# Author: Ackermann Yuriy < github@herrniemand > < ackermann.yuriy@gmail.com >
+# Author: Ackermann Yuriy < herrniemand@github > < ackermann.yuriy@gmail.com >
 
 from lxml import html #pip install lxml ...p.s. might have to build it from the source.
 import requests, time, os.path, json

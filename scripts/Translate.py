@@ -1,4 +1,4 @@
-# Author: Ackermann Yuriy < github@herrniemand > < ackermann.yuriy@gmail.com >
+# Author: Ackermann Yuriy < herrniemand@github > < ackermann.yuriy@gmail.com >
 
 #Need to do `pip install Translate`
 import json
