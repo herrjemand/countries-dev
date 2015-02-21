@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Author: Ackermann Yuriy < herrniemand@github > < ackermann.yuriy@gmail.com >
 
 # This is ugly code

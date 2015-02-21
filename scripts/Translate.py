@@ -1,6 +1,8 @@
-# Author: Ackermann Yuriy < herrniemand@github > < ackermann.yuriy@gmail.com >
+#!/usr/bin/python3
 
-#Need to do `pip install Translate`
+# Author: Ackermann Yuriy < herrniemand@github > < ackermann.yuriy@gmail.com >
+# Do `pip install Translate` first to fix Translate library dependency
+
 import json
 from translate import Translator
 

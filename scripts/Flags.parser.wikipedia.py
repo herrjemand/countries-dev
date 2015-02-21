@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Author: Ackermann Yuriy < herrniemand@github > < ackermann.yuriy@gmail.com >
 
 from lxml import html #pip install lxml ...p.s. might have to build it from the source.
