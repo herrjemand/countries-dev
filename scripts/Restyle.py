@@ -25,8 +25,9 @@ for i in x:
 		"cca2",
 		"ccn3",
 		"cca3",
+		"cioc",
 		"currency",
-		"callingCodes",
+		"idd",
 		"capital",
 		"altSpellings",
 		"region",
@@ -46,7 +47,7 @@ for i in x:
 		if type(i[n]) in [str,int,float,list,bool]:
 			codes[n] = codes[n] + ' ' + json.dumps(i[n])
 		else:
-			if n in ['languages']:
+			if n == 'languages':
 				codes[n] = codes[n] + " {\n"
 				if len(i['languages'].keys()):
 					for z in sorted(i[n]):
@@ -87,6 +88,13 @@ for i in x:
 					codes[n] += '\n' + '\t'*3 + '}\n\t\t}'
 				else:
 					codes[n] = codes[n][:-1:] + '}\n\t\t}'
+
+			elif n == 'idd':
+				codes[n] = codes[n] + ' {\n' \
+				+ '\t'*3 + '\"root\": ' + json.dumps(i[n]['root']) + ',\n' \
+				+ '\t'*3 + '\"suffixes\": ' + json.dumps(i[n]['suffixes']) + '\n'
+				codes[n] = codes[n] + "\t\t}"
+
  
  
 	string = ''
